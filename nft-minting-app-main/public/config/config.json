@@ -1,0 +1,18 @@
+{
+  "CONTRACT_ADDRESS": "0x1d04C5677Af5B88A5F7fAbb0AB2f888e9109A95C",
+  "SCAN_LINK": "https://rinkeby.etherscan.io/address/0x1d04c5677af5b88a5f7fabb0ab2f888e9109a95c",
+  "NETWORK": {
+    "NAME": "Rinkeby Testnet",
+    "SYMBOL": "ETH",
+    "ID": 4
+  },
+  "NFT_NAME": "Moon Bats",
+  "SYMBOL": "MB",
+  "MAX_SUPPLY": 1000,
+  "WEI_COST": 4000000000000000000,
+  "DISPLAY_COST": 4,
+  "GAS_LIMIT": 285000,
+  "MARKETPLACE": "Opeansea",
+  "MARKETPLACE_LINK": "https://testnets.opensea.io/collection/moon-bats-v4",
+  "SHOW_BACKGROUND": true
+}
